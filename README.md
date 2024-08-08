@@ -591,6 +591,13 @@ nano $HOME/.tracks/config/sequencer.toml
 # Restart stationd
 sudo systemctl restart stationd && sudo journalctl -u stationd -f --no-hostname -o cat
 ```
+https://airchains-rpc.kubenode.xyz/
+RPC PUBLIC LIST
+https://airchains-testnet-rpc.cosmonautstakes.com/
+https://junction-testnet-rpc.synergynodes.com/
+https://rpc-t.airchains.safeblock.space/
+https://airchains-rpc.kubenode.xyz/
+http://airchains-rpc1.kubenode.xyz:43457/
 
 #
 
